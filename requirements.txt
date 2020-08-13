@@ -6,7 +6,7 @@ pyarabic>=0.6.2
 repr==0.3.1
 tashaphyne==0.3.1
 arramooz-pysqlite==0.1
-qalsadi>=0.2
+qalsadi>=0.2,<0.3.5
 mysam-tagmanager==0.1
 alyahmor==0.1
 future==0.18.2
