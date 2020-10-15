@@ -21,7 +21,7 @@ variants:
         destination: .
   production:
     includes: [ build ]
-    entrypoint: [ ./interfaces/web/mishkal-webserver.py ]
+    entrypoint: [ ./interfaces/web/mishkal-webserver-syslog.py ]
   test:
     includes: [ build ]
     apt:
