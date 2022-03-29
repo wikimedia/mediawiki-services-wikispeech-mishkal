@@ -11,7 +11,7 @@ lives:
 variants:
   build:
     apt:
-      packages: [ ca-certificates, python-setuptools ]
+      packages: [ ca-certificates, python-setuptools, python-pip ]
     python:
         version: python2.7
         requirements: [ requirements.txt ]
