@@ -1,6 +1,6 @@
 version: v4
 
-base: docker-registry.wikimedia.org/wikimedia-buster
+base: docker-registry.wikimedia.org/buster
 
 runs:
   insecurely: true
